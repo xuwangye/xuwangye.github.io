@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xuwangye.github.io/"/>
-  <updated>2019-05-11T01:41:01.176Z</updated>
+  <updated>2019-05-11T09:01:41.756Z</updated>
   <id>https://xuwangye.github.io/</id>
   
   <author>
@@ -17,11 +17,115 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Live</title>
+    <link href="https://xuwangye.github.io/2019/05/11/Live/"/>
+    <id>https://xuwangye.github.io/2019/05/11/Live/</id>
+    <published>2019-05-11T08:57:12.000Z</published>
+    <updated>2019-05-11T09:01:41.756Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;这里是生活的第一个页面&quot;&gt;&lt;a href=&quot;#这里是生活的第一个页面&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://xuwangye.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="生活" scheme="https://xuwangye.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Resource</title>
+    <link href="https://xuwangye.github.io/2019/05/11/Resource/"/>
+    <id>https://xuwangye.github.io/2019/05/11/Resource/</id>
+    <published>2019-05-11T08:56:50.000Z</published>
+    <updated>2019-05-11T09:01:41.740Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;这里是资源哟&quot;&gt;&lt;a href=&quot;#这里是资源哟&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="资源" scheme="https://xuwangye.github.io/categories/%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="资源" scheme="https://xuwangye.github.io/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Random thoughts</title>
+    <link href="https://xuwangye.github.io/2019/05/11/Random-thoughts/"/>
+    <id>https://xuwangye.github.io/2019/05/11/Random-thoughts/</id>
+    <published>2019-05-11T08:56:35.000Z</published>
+    <updated>2019-05-11T09:01:41.705Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;这里是随想的第一个页面&quot;&gt;&lt;a href=&quot;#这里是随想的第一个页面&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="https://xuwangye.github.io/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="随想" scheme="https://xuwangye.github.io/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>forward</title>
+    <link href="https://xuwangye.github.io/2019/05/11/forward/"/>
+    <id>https://xuwangye.github.io/2019/05/11/forward/</id>
+    <published>2019-05-11T05:49:40.000Z</published>
+    <updated>2019-05-11T08:59:08.270Z</updated>
+    
+    <summary type="html">
+    
+      这是一个空白页
+    
+    </summary>
+    
+      <category term="转载" scheme="https://xuwangye.github.io/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+      <category term="生活" scheme="https://xuwangye.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="随想" scheme="https://xuwangye.github.io/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+      <category term="转载" scheme="https://xuwangye.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+      <category term="资源" scheme="https://xuwangye.github.io/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello world</title>
     <link href="https://xuwangye.github.io/2019/05/10/Hello-world/"/>
     <id>https://xuwangye.github.io/2019/05/10/Hello-world/</id>
     <published>2019-05-10T10:32:58.000Z</published>
-    <updated>2019-05-11T01:41:01.176Z</updated>
+    <updated>2019-05-11T06:41:42.155Z</updated>
     
     <summary type="html">
     
@@ -39,7 +143,7 @@
     <link href="https://xuwangye.github.io/2018/12/12/Hexo-Theme-Sakura/"/>
     <id>https://xuwangye.github.io/2018/12/12/Hexo-Theme-Sakura/</id>
     <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2019-05-10T08:11:45.908Z</updated>
+    <updated>2019-05-11T05:41:31.418Z</updated>
     
     <summary type="html">
     
