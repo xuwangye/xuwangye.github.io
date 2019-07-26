@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sikidayo.com/"/>
-  <updated>2019-05-14T02:37:06.334Z</updated>
+  <updated>2019-07-26T03:05:46.801Z</updated>
   <id>https://sikidayo.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#1 java反射</title>
+    <link href="https://sikidayo.com/2019/07/26/1-java%E5%8F%8D%E5%B0%84/"/>
+    <id>https://sikidayo.com/2019/07/26/1-java反射/</id>
+    <published>2019-07-26T03:04:49.000Z</published>
+    <updated>2019-07-26T03:05:46.801Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1-Java反射&quot;&gt;&lt;a href=&quot;#1-Java反射&quot; class=&quot;headerlink&quot; title=&quot;1 Java反射&quot;&gt;&lt;/a&gt;1 Java反射&lt;/h3&gt;&lt;p&gt;参考#1 Java高级特性——反射：&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://sikidayo.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Live</title>
@@ -114,9 +138,9 @@
     
       <category term="资源" scheme="https://sikidayo.com/tags/%E8%B5%84%E6%BA%90/"/>
     
-      <category term="转载" scheme="https://sikidayo.com/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
       <category term="随想" scheme="https://sikidayo.com/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+      <category term="转载" scheme="https://sikidayo.com/tags/%E8%BD%AC%E8%BD%BD/"/>
     
   </entry>
   
